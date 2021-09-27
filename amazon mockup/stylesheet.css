@@ -1,0 +1,86 @@
+body {
+    width: 200px;
+    border: 15px;
+    padding: 500px;
+    margin: 10px;
+  }
+  
+  .img_1 {
+    height: 31px;
+    width: 103px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  
+  .extra-margin {
+    margin-top: 200px;
+  }
+  
+  .bttn {
+    width: 350px;
+    margin-top: 20px;
+    border-radius:5px;
+  }
+  
+  form {
+    border: 1px solid lightgrey;
+    
+    width: 350px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 16px;
+    padding-bottom: 25px;
+    border-radius: 3px;
+  }
+  
+  .form-pair {
+    display: inline-block;
+  }
+  
+  .sign-in {
+    margin-bottom: 50px;
+    font-size: 30px;
+    font-weight: 10px;
+    font-family: sans-serif;
+  }
+  #prompt1 {
+    font-weight: 8px;
+    font-size: 14px;
+    font-family: sans-serif;
+  }
+  
+  #prompt2 {
+    font-weight: 8px;
+    font-size: 14px;
+    font-family: sans-serif;
+  }
+  
+  .conditions {
+    font-size: 8px;
+    color: blue;
+    margin-top: 30px;
+    margin-left: auto;
+  }
+  
+  .footer {
+    width: max;
+    height: 350px;
+    background-color: #fff;
+    margin-top: 30px;
+  }
+  
+  #Continue {
+    margin-bottom: 10px;
+    background-color: orange;
+    margin-left: auto;
+  }
+  
+  #Create {
+    background-color: lightgrey;
+    margin-left: auto;
+    margin-right: auto
+      
+  }
